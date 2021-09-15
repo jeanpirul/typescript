@@ -1,4 +1,8 @@
 "use strict";
 (() => {
-    //empezara ver video 15 de ts
+    //empezar a ver desde el video 17
+    class Avenger {
+    }
+    const antman = new Avenger();
+    console.log(antman);
 })();
